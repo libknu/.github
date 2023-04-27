@@ -1,6 +1,7 @@
 
-Code bin for all my school work @knu <br>
-Nah, feel free to dig it up if you need it
+Code bin for all my school work @knu ♻️ <br>
+Nah, feel free to dig it up if you need it <br>
+I might recycle it anyway
 
 <!--
 

@@ -1,4 +1,6 @@
-## Hi there 👋
+
+Code bin for all my school work @knu
+Decent, but mostly lousy
 
 <!--
 

@@ -1,7 +1,5 @@
 
 Code bin for all my school works @knu ♻️ <br>
-Nah, feel free to dig it up if you need it <br>
-I might recycle it anyway
 
 <!--
 
